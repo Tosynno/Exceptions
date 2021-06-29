@@ -7,10 +7,10 @@ class EntryPoint
     {
         StreamWriter sw = null;
 
-        if (File.Exists())
-        {
-            File.Open();
-        }
+        //if (File.Exists())
+        //{
+        //    File.Open();
+        //}
 
 
         try
